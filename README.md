@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/a6iyyu](https://github.com/a6iyyu)
 
-- 📝 I regularly write articles on [https://rafiabiyyu1237.blogspot.com/](https://rafiabiyyu1237.blogspot.com/)
-
 - 📫 How to reach me **mizukinako7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
