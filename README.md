@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a6iyyu&label=Profile%20views&color=0e75b6&style=flat" alt="a6iyyu" /> </p>
 
-- 🌱 I’m currently learning **Express, Python, PHP, and Golang**
+- 🌱 I’m currently learning **Express, Python, and JavaScript**
 
 - 🤝 I’m looking for help with [Virtus](https://github.com/a6iyyu/virtus)
 
