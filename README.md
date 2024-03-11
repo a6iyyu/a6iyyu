@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafi Abiyyu Airlangga</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia who wants money.</h3>
 
-- 🌱 I’m currently learning **JavaScript and TypeScript.**
+- 🌱 I’m currently learning **Astro, React, Svelte, TypeScript, and Vue.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a6iyyu](https://github.com/a6iyyu)
 
