@@ -18,7 +18,7 @@ I’m a tech enthusiast starting my journey in web development. Currently, I’m
 
 ### Projects I'm Proud Of 🚀
 
-One of my notable projects is called **Sube**, which you can check out in [my GitHub repo](https://github.com/a6iyyu/sube). If you're curious about the other projects I'm working on, feel free to explore my profile!
+One of my notable projects is called **Sube**, which you can check out in [my GitHub repo](https://github.com/a6iyyu). If you're curious about the other projects I'm working on, feel free to explore my profile!
 
 ---
 
