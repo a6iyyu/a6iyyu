@@ -10,9 +10,9 @@
 
 I’m a tech enthusiast starting my journey in web development. Currently, I’m focused on learning and improving my skills in the following languages and frameworks:
 
-- 🌐 **JavaScript** & **TypeScript**
-- ⚛️ **React** & **Nuxt**
-- 🐍 **Python**
+🏗 **C#**, **Golang**, **PHP**, **Python**, **TypeScript**
+
+⚛️ **Astro**, **Next.js**, **Dotnet**, **Laravel**
 
 ---
 
